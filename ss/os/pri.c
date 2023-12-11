@@ -83,5 +83,16 @@ for(int i=0;i<n;i++)
 			printf("\nAverage Waitingtime %f",avgw);
 			printf("/nAverage TurnaroundTi %f",avgt);
 
+	// printf("\nGantt Chart:\n");
+ //    for (i = 0; i < n; i++) {
+	// printf("| P%d ", p[i]);
+ //    }
+ //    printf("|\n");
+
+ //    for (i = 0; i <= n; i++) {
+	// printf("|%d ", g[i]);
+ //    }
+ //    printf("|\n");
+
 
 }
